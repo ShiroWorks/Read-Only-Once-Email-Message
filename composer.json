@@ -1,0 +1,13 @@
+{
+  "require": {
+    "slim/slim": "^3.12",
+    "hassankhan/config": "^2.0",
+    "slim/twig-view": "^2.4",
+    "mailgun/mailgun-php": "^2.8",
+    "dasc3er/slim-whoops": "^0.1.0",
+    "dopesong/slim-whoops": "^2.3",
+    "hwi/oauth-bundle": "^0.6.3",
+    "php-http/guzzle6-adapter": "~1.1.1",
+    "php-http/httplug-bundle": "~1.13"
+  }
+}
